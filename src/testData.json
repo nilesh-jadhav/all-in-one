@@ -1,0 +1,24 @@
+{
+    "contest": [
+        {
+            "id":1,
+            "categoryName": "Business",
+            "contestName": "Cognitive Building"
+        },
+        {
+            "id":2,
+            "categoryName": "Magazine",
+            "contestName": "Education"
+        },
+        {
+            "id":3,
+            "categoryName": "Software",
+            "contestName": "Big Data Analytics"
+        },
+        {
+            "id":4,
+            "categoryName": "Website",
+            "contestName": "Online test"
+        }
+    ]
+}

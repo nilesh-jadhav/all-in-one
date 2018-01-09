@@ -19,6 +19,7 @@
   "homepage": "https://github.com/nilesh-jadhav/all-in-one#readme",
   "dependencies": {
     "express": "^4.16.2",
+    "json-loader": "^0.5.7",
     "mongodb": "^3.0.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
